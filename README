@@ -1,5 +1,5 @@
 puts 'Hello World!'
-puts 'Meu nome é' + ' Alexandre Vidal'
+puts 'Meu nome e' + ' Alexandre Vidal'
 nome = Alexandre Koscianski Vidal
-puts 'Meu nome é ' + nome
+puts 'Meu nome e ' + nome
 puts 'Caramba que nome lindo! ;D'
