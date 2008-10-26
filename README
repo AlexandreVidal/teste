@@ -1,3 +1,5 @@
-Meu teste
-
-Oi.
+puts 'Hello World!'
+puts 'Meu nome é' + ' Alexandre Vidal'
+nome = Alexandre Koscianski Vidal
+puts 'Meu nome é ' + nome
+puts 'Caramba que nome lindo! ;D'
